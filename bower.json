@@ -1,0 +1,27 @@
+{
+  "name": "google-maps-utility-library-v3-infobubble",
+  "version": "0.8",
+  "authors": [
+    "Luke Mahe"
+  ],
+  "description": "CSS3 InfoBubble with tabs for Google Maps API V3",
+  "main": "lib/infobubble.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "google",
+    "maps",
+    "infowindow",
+    "infobubble"
+  ],
+  "license": "Apache License, Version 2.0",
+  "homepage": "http://google-maps-utility-library-v3.googlecode.com/svn/trunk/infobubble/examples/example.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
